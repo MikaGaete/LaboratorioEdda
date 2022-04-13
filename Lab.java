@@ -38,6 +38,9 @@ public class Lab{
         int popularity = Integer.parseInt(metadata[2]);
         return new Track(id, trackName, popularity);
     }
+    public static Track Contador(list<Track> List){
+    	//-insertar aca-
+    }
 
     static class Track{
         private String id;
