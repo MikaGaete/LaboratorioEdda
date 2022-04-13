@@ -65,6 +65,5 @@ public class Lab{
         public String toString(){
             return "Track [ID:" + id + "] [Name:" + trackName + "] [Popularity:" + popularity + "]";
         }
-        //Buena cabros como estamos
     }
 }
